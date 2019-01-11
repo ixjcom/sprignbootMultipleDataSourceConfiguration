@@ -1,2 +1,5 @@
 # sprignbootMultipleDataSourceConfiguration
-spring boot   使用AOP   配置多数据源 适用于各种ORM框架
+spring boot使用AOP配置多数据源适用于各种ORM框架
+爱雪瑾
+___________________________________
+20190111
